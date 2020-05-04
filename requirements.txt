@@ -10,7 +10,6 @@ google-auth==1.14.1
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
 grpcio==1.28.1
-h5py==2.10.0
 idna==2.9
 itsdangerous==1.1.0
 Jinja2==2.11.2
@@ -18,9 +17,6 @@ joblib==0.14.1
 Keras-Preprocessing==1.1.0
 Markdown==3.2.1
 MarkupSafe==1.1.1
-nltk==3.5
-numpy==1.18.3
-oauthlib==3.1.0
 opt-einsum==3.2.1
 protobuf==3.11.3
 pyasn1==0.4.8
